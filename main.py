@@ -11,4 +11,4 @@ if parola in meme_dict.keys():
     print(meme_dict[parola])
 else:
     # Cosa fare se la parola non è stata trovata?
-    print("non é stato trovato")
+    print("non é stato trovato!")
